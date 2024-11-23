@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Christopher Khoury
-title: 
+title: Senior Strategy & Insights Executive | Board Member | Advisor
 email: khoury.chris@gmail.com
 website: linkedin.com/in/christopherkhoury
 
@@ -31,9 +31,9 @@ linkedin_username: christopherkhoury
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: ama-assn.org
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://ama-assn.org
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+I am Christopher Khoury, Vice President of Strategic Insights at AMA. In this role, I focus broadly on healthcare trends and their impact on the practice of medicine and public health. I am responsible for intelligence gathering and market research, industry analytics, strategic partnering, and innovation activities.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+Before joining AMA, I began my career as a product developer at the advanced diagnostics company Nanosphere (now DiaSorin) and later worked as a management consultant and healthcare researcher at Gallup and PricewaterhouseCoopers. I hold degrees in Electrical and Computer Engineering from the University of Illinois at Urbana-Champaign, an MS in Biomedical Engineering from the University of Wisconsin, and an MBA, magna cum laude, from The Ohio State University.
+
+I have authored several publications and frequently present on business issues across healthcare. Additionally, I hold patents covering biotechnology topics and serve on multiple advisory boards, including ACCESS (Detroit), the Northwestern Institute for Artificial Intelligence in Healthcare, the California Telehealth Resource Center, the Health AI Partnership, the American Board of Medical Specialties, and the University of Illinois’ Health Technology Program.
+  I am most skilled in: <mark>Strategy</mark> and <mark>Insights</mark>
 
 content:
   - title: Projects # Title for the section
