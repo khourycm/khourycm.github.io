@@ -47,7 +47,7 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: # this will include new lines to allow paragraphs
 I am Christopher Khoury, Vice President of Strategic Insights at AMA. In this role, I focus broadly on healthcare trends and their impact on the practice of medicine and public health. I am responsible for intelligence gathering and market research, industry analytics, strategic partnering, and innovation activities.
 
 Before joining AMA, I began my career as a product developer at the advanced diagnostics company Nanosphere (now DiaSorin) and later worked as a management consultant and healthcare researcher at Gallup and PricewaterhouseCoopers. I hold degrees in Electrical and Computer Engineering from the University of Illinois at Urbana-Champaign, an MS in Biomedical Engineering from the University of Wisconsin, and an MBA, magna cum laude, from The Ohio State University.
