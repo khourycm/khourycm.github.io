@@ -1,2 +1,2 @@
-# khoury.github.io
+# khourycm.github.io
 Christopher M. Khoury
