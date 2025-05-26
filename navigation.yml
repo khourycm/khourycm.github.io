@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Full Resume"
+    url: "/resume-full/"
+  - title: "Condensed Resume"
+    url: "/resume-condensed/"
