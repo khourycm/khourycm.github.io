@@ -2,7 +2,7 @@ title: "Christopher Khoury"
 description: "Resume and public site of a senior executive in strategy, tech, and nonprofit leadership."
 url: "https://khourycm.github.io"
 baseurl: ""
-theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
   - jekyll-feed
