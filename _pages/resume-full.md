@@ -9,8 +9,8 @@ classes: wide
 
 # Christopher M. Khoury, MBA, MSc  
 📍 Washington, D.C.  
-📧 [khoury.chris@gmail.com](mailto:khoury.chris@gmail.com) | 📞 (202) 256-6854  
-🔗 [LinkedIn](https://linkedin.com/in/christopherkhoury) | 💻 [GitHub](https://github.com/YOUR-USERNAME)
+📧 [khoury.chris {AT} gmail.com](mailto:khoury.chris@gmail.com) | 📞 (202) XXX-XXXXX
+🔗 [LinkedIn](https://linkedin.com/in/christopherkhoury) | 💻 [GitHub](https://github.com/khourycm)
 
 ---
 
@@ -117,6 +117,6 @@ Senior strategy and transformation executive with a proven track record of leade
 - Khoury, C. “Industry, Scientific, and Clinical Indicators of AI in Healthcare.” Keystone Symposia Poster.  
 - Hodgkins, Khoury, et al. “Roadmap for Digital Health Innovation.” *Health Affairs*, 2018.  
 - “System Using Self-contained Processing Module…” U.S. Patent 7,888,107B2  
-- See full list [here](#)
+- See full list [here](https://scholar.google.com/citations?user=8FF8pKIAAAAJ&hl=en)
 
 ---
