@@ -38,5 +38,3 @@ Choose the format that works best for you:
 - **[Condensed Resume](/resume-condensed/)** - Key highlights and core competencies
 
 ---
-
-*Driving transformation through strategic leadership and innovative thinking.*
