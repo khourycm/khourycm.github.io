@@ -3,6 +3,7 @@ title: "Christopher Khoury – Executive Summary"
 layout: single
 permalink: /resume-condensed/
 author_profile: true
+classes: wide
 ---
 
 # Christopher M. Khoury, MBA, MSc  
