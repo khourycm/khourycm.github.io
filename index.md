@@ -17,9 +17,6 @@ excerpt: >
   Mission-driven | Health Tech | AI | Digital Innovation
 author_profile: false
 ---
-
-Welcome to the personal site of **Christopher M. Khoury**.
-
 I am a senior executive specializing in strategic transformation, with expertise in healthcare technology, artificial intelligence, and digital innovation. My career has been focused on driving mission-critical initiatives that create meaningful impact.
 
 ## Professional Focus
