@@ -1,26 +1,28 @@
 title: "Christopher Khoury"
-description: "Resume and public site of a senior executive in strategy, tech, and nonprofit leadership."
+description: "Executive resume"
 url: "https://khourycm.github.io"
 baseurl: ""
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
-  collections:
+remote_theme: "mmistakes/minimal-mistakes"
+
+collections:
   pages:
     output: true
     permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Optional site-wide visual theme
 minimal_mistakes_skin: "air"
-author:
-  name: "Christopher Khoury"
-  avatar: "/assets/images/profile.jpg"
-  bio: "Tech-forward strategy and transformation executive"
-  location: "Washington, DC"
-  links:
-    - label: "LinkedIn"
-      url: "https://linkedin.com/in/christopherkhoury"
-    - label: "GitHub"
-      url: "https://github.com/khourycm"
