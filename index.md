@@ -3,8 +3,9 @@ layout: splash
 title: "Christopher Khoury"
 permalink: /
 header:
-  overlay_color: "#fefefe"
-  overlay_filter: "0.2"
+header:
+  overlay_color: "#4a90e2"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/header.jpg
   actions:
     - label: "Full Resume"
