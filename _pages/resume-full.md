@@ -4,6 +4,7 @@ layout: single
 permalink: /resume-full/
 author_profile: true
 classes: wide
+
 ---
 
 # Christopher M. Khoury, MBA, MSc  
